@@ -1,0 +1,2 @@
+,speed,total_voltage,total_current,soc,temp_max,temp_min,motor_voltage,motor_current,mileage,milediff,total_P,motor_P,speeddiff,milegap,tempMAXMINdiff,SOCgap
+0,0.0,548.4,9.0,95.0,32.0,19.0,0.0,0.0,36470.2,0.0,4935.5999999999985,0.0,,0.0,13.0,0.0

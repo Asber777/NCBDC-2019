@@ -1,0 +1,1 @@
+inputfeature:total_voltagetotal_currentsoctemp_maxtemp_minmotor_voltagemotor_currenttotal_Pmotor_PtempMAXMINdiffSOCgapoutputfeature:milediffTimeStep:24MSE:0.19519778682338101model:LSTM(32),Dense(1),optimizer=tf.keras.optimizers.RMSprop(), loss='mae'

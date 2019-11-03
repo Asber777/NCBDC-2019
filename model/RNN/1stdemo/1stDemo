@@ -1,0 +1,1 @@
+inputfeature:total_voltagetotal_currentsoctemp_maxtemp_minmotor_voltagemotor_currenttotal_Pmotor_PtempMAXMINdiffSOCgap/noutputfeature:milediff/nTimeStep:30/nMSE:24.05306182720006/nmodel:LSTM(32),Dense(1),optimizer=tf.keras.optimizers.RMSprop(), loss='mae'/n
